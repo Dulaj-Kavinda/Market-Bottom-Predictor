@@ -23,7 +23,7 @@ Predictor is a useful tool for identifying future market bottoms.
 │   ├── Benchmarks
 |   │   ├── LSTM based
 |   │   ├── GRU based
-|   |   └── Buy and sell strategy
+|   |   └── Buy and Hold strategy
 │   └── Results
 └── Web Application
 ```
