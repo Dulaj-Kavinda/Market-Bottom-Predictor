@@ -18,14 +18,10 @@ Predictor is a useful tool for identifying future market bottoms.
 |   │   ├── LSTM based
 |   |   └── GRU based
 │   └── Results
-├── Bottom classifier
-│   ├── WGAN approach
-│   ├── Benchmarks
-|   │   ├── LSTM based
-|   │   ├── GRU based
-|   |   └── Buy and Hold strategy
-│   └── Results
-└── Web Application
+└── Bottom classifier
+    ├── WGAN approach
+    └── Results
+
 ```
 
 
