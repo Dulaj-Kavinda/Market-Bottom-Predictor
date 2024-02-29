@@ -27,10 +27,3 @@ Introduction: [YouTube Video](https://youtu.be/sZjwhfJUSSc?si=BvK4vI2XG8XSTf6C)
     └── Results
 
 ```
-
-
-## Contributing
-
-
-
-## License
