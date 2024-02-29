@@ -4,7 +4,7 @@ Predictor is a useful tool for identifying future market bottoms.
 
 ## Demo
 
-[Demo](url)
+[Demo](https://youtu.be/sZjwhfJUSSc?si=BvK4vI2XG8XSTf6C)
 
 ## Directory Structure
 
